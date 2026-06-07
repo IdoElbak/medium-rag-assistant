@@ -1,0 +1,5 @@
+.env
+__pycache__/
+.venv/
+venv/
+medium-english-50mb.csv
